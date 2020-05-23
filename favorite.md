@@ -2,8 +2,8 @@
 
 My favorite foods are:
 
-Mo:Mo
-Chicken Chilly
-Korean Fried Chicken
-Chicken Marsala
-Southern Fried Chicken
+1.Mo:Mo
+2.Chicken Chilly
+3.Korean Fried Chicken
+4.Chicken Marsala
+5.Southern Fried Chicken
